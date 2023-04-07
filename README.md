@@ -7,4 +7,4 @@
 - ESLint
 - Prettier
 - Jest
-- GitHub Workflow
+- GitHub Actions
